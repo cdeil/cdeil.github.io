@@ -8,3 +8,9 @@
   margin-left: auto;
   max-width: 700px; /* or 950px */
 }
+
+a {
+    /*font-style: italic;*/
+    font-weight: bold;
+    color: inherit;
+}
